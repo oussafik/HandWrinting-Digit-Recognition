@@ -4,7 +4,7 @@ This repository contains a script that demonstrates how to use a pre-trained con
 
 ## Scipts
 
-- mainl.py: This script trains a convolutional neural network on the MNIST dataset and saves the trained model to an h5 file.
+- main.py: This script trains a convolutional neural network on the MNIST dataset and saves the trained model to an h5 file.
 
 - application_1.py: This script is a Tkinter GUI application that allows the user to draw a digit on a canvas and predict the digit using the pre-trained model saved in the first script.
 
