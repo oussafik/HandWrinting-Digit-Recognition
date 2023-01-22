@@ -23,7 +23,7 @@ This repository contains a script that demonstrates how to use a pre-trained con
 
 1. Clone the repository
 2. In the command line, navigate to the directory where the scripts are located
-3. Run the script that you want to use by using the command 'python script_name.py
+3. Run the script that you want to use by using the command 'python script_name.py'
 
 
 ## Note
